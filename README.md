@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Puzzle" src="https://github.com/aryanmsr/aryanmsr.github.io/blob/master/icons/icon-144x144.png" width="100" />
+  <img alt="Puzzle" src="https://github.com/aryanmsr/Mobile_Game_Analysis/blob/master/mobile_game_cover.jpg" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 1

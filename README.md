@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Puzzle" src="https://github.com/aryanmsr/Mobile_Game_Analysis/blob/master/mobile_game_cover.jpg" width="100" />
-</div>
 <h1 align="center">
   Portfolio Website Version 1
 </h1>
@@ -9,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/aryanmsr/aryanmsr.github.io/blob/main/src/images/demo%202.png" />
+  <img alt="Cover" src="https://github.com/aryanmsr/Mobile_Game_Analysis/blob/master/mobile_game_cover.jpg" />
 </div>
 
 ### TL;DR
